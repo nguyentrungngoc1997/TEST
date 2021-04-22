@@ -1,0 +1,7 @@
+gitclone
+git add (git push)
+git pull keo du lieu ve
+git revert khoi phuc du lieu
+git create branch (tao nhanh)
+git checkout(re nhanh)
+git checkout(version cu)
